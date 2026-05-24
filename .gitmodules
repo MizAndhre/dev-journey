@@ -1,0 +1,3 @@
+[submodule "playwright-js-ts-from-scratch-framework"]
+	path = playwright-js-ts-from-scratch-framework
+	url = https://github.com/MizAndhre/playwright-js-ts-from-scratch-framework.git
